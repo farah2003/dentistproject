@@ -8,7 +8,8 @@ import Home   from './component/Home';
 import Aboutus from './component/Aboutus';
 import Contactus  from './component/Contactus';
 import Signin   from './component/Sign';
-import Login   from './component/Login';
+import Login   from './component/Login'; 
+import Patient from './component/patient'
 
 
 
@@ -29,6 +30,7 @@ class App extends Component{
     <Route path="/contact"component={Contactus}></Route>
     <Route path="/sign"component={Signin}></Route>
     <Route path="/login"component={Login}></Route>
+
 
 
     </Switch>
