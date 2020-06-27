@@ -77,6 +77,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ![Screenshot from 2020-06-27 12-55-54](https://user-images.githubusercontent.com/59260120/85922908-32c7a400-b88f-11ea-9f3c-825b9b1bea0f.png)
 ![Screenshot from 2020-06-27 12-56-09](https://user-images.githubusercontent.com/59260120/85922910-33f8d100-b88f-11ea-9e56-181612e12778.png)
 ![Screenshot from 2020-06-27 12-56-18](https://user-images.githubusercontent.com/59260120/85922912-3529fe00-b88f-11ea-9f03-e32f5e74358c.png)
+![Screenshot from 2020-06-27 13-07-46](https://user-images.githubusercontent.com/59260120/85922932-728e8b80-b88f-11ea-9875-09edb588c8f9.png)
+![Screenshot from 2020-06-27 13-07-53](https://user-images.githubusercontent.com/59260120/85922934-74f0e580-b88f-11ea-969b-c69460da954c.png)
+
+
+
+
 
 
 
